@@ -13,4 +13,4 @@ def current_player(board)
   elsif turn_count(board) % 3 == 0
     "O"
   end
-end    
+end
